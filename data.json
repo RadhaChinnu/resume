@@ -1,0 +1,50 @@
+{
+	"basicdetails":{
+		      "image":"image.jpg",
+		      "name":"RADHAVEMULA",
+		      "email":"vemularadha1981@gmail.com",
+		      "phone":"8574635270",
+		      "address":"guntur"
+
+	},
+	     "EDUCATION":[
+        {
+          "course":"B.Tech",
+          "college":"vignan",
+          "Percentage":"75%"
+        },
+        {
+          "course":"Intermediate",
+          "college":"Gitams",
+          "Percentage":"98%"
+    },   
+
+       {
+          "course":"SSC",
+          "college":"Gitanjali School",
+          "Percentage":"98%"
+       }
+            ],
+       "skills":[
+        {
+          "name":"operating system",
+          "value":"windows,linux,MAC"
+        },
+        {
+          "name":"programming languages",
+          "value":"c,c++,java,python"
+        }
+      ],
+
+       "carrier":{
+        "ca":"i will do my level best for the development of this institution and perform all my duties and responsibilities with all the work ethics "
+       },
+       "achievements":[
+        "i got first prize in power point presentation.",
+        " HARSHA got natakireeti in mime at vignan fest",
+        "VNEE got padmasri in mime at vignan fest"
+           ],
+       "decsription":{
+        "des":"i there by declare that all the above are true "
+       }
+     }
